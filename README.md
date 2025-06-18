@@ -1,11 +1,11 @@
-# 🧮 MNIST Handwritten Digit Classifier Web App
+# MNIST Handwritten Digit Classifier Web App
 
 An AI-powered web app that uses a **Convolutional Neural Network (CNN)** to recognize handwritten digits (0–9).  
 Upload a clear image of a digit — the app predicts which digit it is, instantly!
 
 ---
 
-## ✅ **What this project does**
+## **What this project does**
 
 - Loads a trained CNN model (`mnist_cnn_model.h5`) that recognizes digits based on the MNIST dataset.
 - Lets a user upload a **28×28 pixel grayscale image** of a digit.
@@ -15,10 +15,10 @@ Upload a clear image of a digit — the app predicts which digit it is, instantl
 
 ---
 
-## 🔍 **How it works — Detailed**
+## **How it works**
 
 1️⃣ **Dataset:**  
-   - Uses the classic **MNIST** dataset of handwritten digits (70,000 images of digits 0–9).
+   - Uses the classic **MNIST** dataset of handwritten digits (60,000 images of digits 0–9).
 
 2️⃣ **Model:**  
    - Built using **TensorFlow/Keras**
@@ -53,11 +53,11 @@ Upload a clear image of a digit — the app predicts which digit it is, instantl
 
 ---
 
-## 🚀 **How to Run Locally**
+## **How to Run Locally**
 
 Follow these clear steps to run it on your own machine:
 
-### 📌 1️⃣ Clone the repository
+### 1️⃣ Clone the repository
 ```bash
 git clone https://github.com/ogrk/MNIST-Digit-Classifier.git
 cd MNIST-Digit-Classifier
