@@ -41,7 +41,7 @@ Upload a clear image of a digit — the app predicts which digit it is, instantl
 
 ---
 
-## ⚙️ **Tech Stack**
+## **Tech Stack**
 
 | Tool | Purpose |
 |------|----------|
